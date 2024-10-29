@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GetLocationFromMap</string>
+    <string name="latitude">緯度:</string>
+    <string name="longitude">經度:</string>
+    <string name="address">地址:</string>
+    <!-- !!!!!!!!!!!  Important  !!!!!!!!!!! -->
+    <!--    照著 https://developers.google.com/maps/documentation/android-sdk/start?hl=zh-tw#create-project "建立金鑰" 並 "啟動 Maps SDK" -->
+    <!--    注意:一定要記得啟動 Maps SDK 的功能 https://console.cloud.google.com/apis/library/maps-android-backend.googleapis.com  -->
+    <string name="google_map_key">{GOOGLE_MAP_SERVICE_KEY}</string>
+    <!-- !!!!!!!!!!!  Important  !!!!!!!!!!! -->
+</resources>
